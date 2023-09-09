@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://alcashzone.com/` + encodeURI(path as string)
+					`https://www.highcpmrevenuegate.com/yua1tjsvq?key=6b734f4b2d9749979681f21808e7d32d`
 				}`,
 			},
 		};
